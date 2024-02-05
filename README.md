@@ -10,6 +10,11 @@ Erasing the Flash Section 7;
 Then, writing the example bin file user_app.bin to the flash whose address starts from 0x0807c010. (This address can be changed by changing conf’s address in the code.) 
 Verifying the codes. 
 
+![image](https://github.com/shilianzhao/Python-based-STM32F4-Bootloader/assets/31520270/de87d36c-288b-414b-9758-b036999cc054)
+![image](https://github.com/shilianzhao/Python-based-STM32F4-Bootloader/assets/31520270/efe55c0c-12ac-4422-b5ae-3ca0b63dd3ff)
+
+The pin BootMode0 of Nucleo board should be set to 3.3V, BootMode1 should be set to 0 V.
+
 ## 2. Use Hex Editor Neo to read and edit the bin file 
 
 Before writing the bin file to STM32F4 flash, we can open the bin file with Hex Editor Neo to read and change the bin value. Here is the example:
