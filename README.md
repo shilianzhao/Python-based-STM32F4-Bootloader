@@ -11,6 +11,7 @@ Then, writing the example bin file user_app.bin to the flash whose address start
 Verifying the codes. 
 
 ![image](https://github.com/shilianzhao/Python-based-STM32F4-Bootloader/assets/31520270/de87d36c-288b-414b-9758-b036999cc054)
+
 ![image](https://github.com/shilianzhao/Python-based-STM32F4-Bootloader/assets/31520270/efe55c0c-12ac-4422-b5ae-3ca0b63dd3ff)
 
 The pin BootMode0 of Nucleo board should be set to 3.3V, BootMode1 should be set to 0 V.
