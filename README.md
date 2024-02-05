@@ -24,8 +24,8 @@ Before writing the bin file to STM32F4 flash, we can open the bin file with Hex 
 
 ## 4.	Reference:
 
-* Stm: AN2606_STM32 microcontroller system memory boot mode.pdf
-* Stm: AN3155_USART protocol used in STM32 bootloader.pdf
+* STM file: AN2606_STM32 microcontroller system memory boot mode.pdf
+* STM file: AN3155_USART protocol used in STM32 bootloader.pdf
 * https://github.com/florisla/stm32loader florisla     very important
 * https://github.com/jsnyder/stm32loader/blob/master/stm32loader.py, jsnyder
 * https://github.com/pavelrevak/stm32bl/blob/ae908e34cdb727808817d2d04a6dbc752a5b22f8/README.md
