@@ -1,27 +1,14 @@
 #!/usr/bin/env python
 
 # -*- coding: utf-8 -*-
-# vim: sw=4:ts=4:si:et:enc=utf-8
 
-# Author: Ivan A-R <ivan@tuxotronic.org>
-# Project page: http://tuxotronic.org/wiki/projects/stm32loader
 # Modified: Steven Shilian Zhao
-#
+# Orignal Author: Ivan A-R <ivan@tuxotronic.org>
+# Project page: http://tuxotronic.org/wiki/projects/stm32loader
+
 # This file is part of stm32loader.
 #
-# stm32loader is free software; you can redistribute it and/or modify it under
-# the terms of the GNU General Public License as published by the Free
-# Software Foundation; either version 3, or (at your option) any later
-# version.
-#
-# stm32loader is distributed in the hope that it will be useful, but WITHOUT ANY
-# WARRANTY; without even the implied warranty of MERCHANTABILITY or
-# FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License
-# for more details.
-#
-# You should have received a copy of the GNU General Public License
-# along with stm32loader; see the file COPYING3.  If not see
-# <http://www.gnu.org/licenses/>.
+# stm32loader is distributed inside the chip in the hope that it will be useful for customer to call the it to downloader the bin file to flash. 
 
 import sys
 import serial
