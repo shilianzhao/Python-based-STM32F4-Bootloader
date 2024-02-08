@@ -35,8 +35,6 @@ Before writing the bin file to STM32F4 flash, we can open the bin file with Hex 
 * https://github.com/florisla/stm32loader florisla     very important
 * https://github.com/jsnyder/stm32loader/blob/master/stm32loader.py, jsnyder
 * https://github.com/pavelrevak/stm32bl/blob/ae908e34cdb727808817d2d04a6dbc752a5b22f8/README.md
-* https://blog.csdn.net/qq_34254642/article/details/102887517 chinese  
-* https://www.bilibili.com/video/BV1Ub4y167XQ/?spm_id_from=333.788.recommend_more_video.-1, STM32+IAP上位机程序讲解
 * https://www.youtube.com/watch?v=GR8Vy5QvDHU STM32 Tips: Talking to the on-board Bootloader
 
 ## 5. Extra tool
